@@ -1,1 +1,9 @@
 /bin/
+bin/
+target/
+build/
+out/
+.DS_Store
+.idea/
+.vscode/
+*.iml
